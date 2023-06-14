@@ -1,0 +1,9 @@
+          NNCB
+start     NN:1      NC:1      CB:1
+
+insert    NCN       NBC       CHB
+          NN:1      NC:2      CB:1  CN    NB  BC CH HB
+          
+
+
+          NBCCNBBBCBHCB
